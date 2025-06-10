@@ -1,0 +1,1 @@
+In this little project I experiment on how to use Python Libraries from Julia (a high performing programming language for Data Science), and viceversa to check how both languages can coexist and leverage advantages of both from Python projects. Also, I compare performance benchmarks.
